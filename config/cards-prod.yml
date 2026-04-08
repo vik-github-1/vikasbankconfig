@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to eazybank cards related production apis"
+  message: "Welcome to eazybank cards related prod apis"
   contactDetails:
     name: "Sandra Herald Product Owner"
     email: "sandra@mygithub.com"
